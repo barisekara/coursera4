@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "categoryId": 12,
+      "categoryId": 5,
       "productName": "Albaraka Turk: 10 adet Huawei Mate 20 Lite",
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": "222",
@@ -72,6 +72,13 @@
       "unitPrice": 31,
       "unitsInStock": 31
     },
+	{
+		"id":12,
+		"categoryId":12,
+		"productName":"Espark 2019 Mercedes Çekilişi",
+		"unitPrice": 31,
+		"unitsInStock": 31
+	},
 
     {
       "id": 11,
