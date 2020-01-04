@@ -74,7 +74,7 @@
     },
     {
       "id": 12,
-      "categoryId": 13,
+      "categoryId": 12,
       "productName": "Espark 2019 Mercedes Çekilişi",
       "quantityPerUnit": "1 kg pkg.",
       "unitPrice": 21,
@@ -98,7 +98,7 @@
     },
     {
       "id": 14,
-      "categoryId": 14,
+      "categoryId": 13,
       "productName": "Cimri.com: Iphone X çekilişi",
       "quantityPerUnit": "40 - 100 g pkgs.",
       "unitPrice": 23.25,
@@ -178,12 +178,12 @@
       "seoUrl": "seafood"
     },
 		  {
-      "id": 13,
+      "id": 12,
       "categoryName": "Espark",
       "seoUrl": "seafood"
     },
 		  {
-      "id": 14,
+      "id": 13,
       "categoryName": "Cimri",
       "seoUrl": "seafood"
     }
