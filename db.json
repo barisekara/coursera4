@@ -72,14 +72,7 @@
       "unitPrice": 31,
       "unitsInStock": 31
     },
-    {
-      "id": 10,
-      "categoryId": 12,
-      "productName": "Espark 2019 Mercedes Çekilişi",
-      "quantityPerUnit": "1 kg pkg.",
-      "unitPrice": 21,
-      "unitsInStock": 22
-    },
+
     {
       "id": 11,
       "categoryId": 6,
