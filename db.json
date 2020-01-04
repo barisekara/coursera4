@@ -5,7 +5,7 @@
       "categoryId": 10,
       "productName": "Migros: İphone 8 Çekilişi",
       "quantityPerUnit": "48 - 6 oz jars",
-      "url": "www.migros.com.tr"
+      "url": "https://www.migros.com.tr"
 	  
     },
     {
@@ -13,86 +13,86 @@
       "categoryId": 11,
       "productName": "Nescafe: 1 kişi BMW X2 sDrive18i 5 Kapılı 2019 Model",
       "quantityPerUnit": "24 - 12 oz bottles",
-      "url": "www.nescafe.com"
+      "url": "https://www.nescafe.com"
     },
     {
       "id": 3,
       "categoryId": 5,
       "productName": "Albaraka Turk: 10 adet Huawei Mate 20 Lite",
-      "url": "www.albaraka.com.tr"
+      "url": "https://www.albaraka.com.tr"
     },
     {
       "id": 4,
       "categoryId": 2,
       "productName": "İşCep’ten Bahar Hediyesi 100 adet General Mobile GM 9 Pro",
-      "url": "www.isbank.com.tr"
+      "url": "https://www.isbank.com.tr"
     },
     {
       "id": 5,
       "categoryId": 2,
       "productName": "İşCep Ticari Çekiliş Kampanyası 9 Adet Samsung Galaxy Note 9 128 GB",
-      "url": "www.isbank.com.tr"
+      "url": "https://www.isbank.com.tr"
     },
     {
       "id": 6,
       "categoryId": 11,
       "productName": "Nescafe: 10 Adet Mercedes-Benz A200 Style 2018 ve 100 Adet Samsung Galaxy Note 9",
-      "url": "www.nescafe.com.tr"
+      "url": "https://www.nescafe.com.tr"
     },
     {
       "id": 7,
       "categoryId": 1,
       "productName": "Sütaş Ayran: 3 Adet Renault Megane Sedan Touch",
-      "url": "www.sutas.com.tr"
+      "url": "https://www.sutas.com.tr"
     },
     {
       "id": 8,
       "categoryId": 3,
       "productName": "Turkcell: 10 kişiye iPhone Xs 64 GB",
-      "url": "www.turkcell.com.tr"
+      "url": "https://www.turkcell.com.tr"
     },
     {
       "id": 9,
       "categoryId": 4,
       "productName": "VODAFONE ALTIN KULÜP YENİ YIL ÇEKİLİŞİ",
-      "url": "www.migros.com.tr"
+      "url": "https://www.migros.com.tr"
     },
     {
       "id": 10,
       "categoryId": 12,
       "productName": "Espark Araba Çekilişi",
-      "url": "www.espark.com"
+      "url": "https://www.espark.com"
     },	
 
     {
       "id": 11,
       "categoryId": 6,
       "productName": "Algida: 6 kişiye, Volvo S60 T3 Advance 2018 model otomobil",
-      "url": "www.algida.com.tr"
+      "url": "https://www.algida.com.tr"
     },
     {
       "id": 12,
       "categoryId": 8,
       "productName": "Nestle Nesquik - Birlikte Koruyalım: 3 kişiye Samsung Tablet",
-      "url": "www.nestle.com"
+      "url": "https://www.nestle.com"
     },
     {
       "id": 13,
       "categoryId": 13,
       "productName": "Cimri.com: Iphone X çekilişi",
-      "url": "www.cimri.com"
+      "url": "https://www.cimri.com"
     },
     {
       "id": 14,
       "categoryId": 8,
       "productName": "Magnum: 2 kişiye Porche",
-      "url": "www.algida.com.tr"
+      "url": "https://www.algida.com.tr"
     },
     {
       "id": 15,
       "categoryId": 9,
       "productName": "Chips Master: 30 kişi Vestel Led TV",
-      "url": "www.vestel.com.tr"
+      "url": "https://www.vestel.com.tr"
     }
   ],
   "categories": [
