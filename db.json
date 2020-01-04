@@ -18,7 +18,7 @@
     },
     {
       "id": 4,
-      "categoryId": 1,
+      "categoryId": 12,
       "productName": "Albaraka Turk: 10 adet Huawei Mate 20 Lite",
       "quantityPerUnit": "48 - 6 oz jars",
       "unitPrice": "222",
@@ -42,7 +42,7 @@
     },
     {
       "id": 7,
-      "categoryId": 7,
+      "categoryId": 11,
       "productName": "Nescafe: 10 Adet Mercedes-Benz A200 Style 2018 ve 100 Adet Samsung Galaxy Note 9",
       "quantityPerUnit": "12 - 1 lb pkgs.",
       "unitPrice": 30,
@@ -50,7 +50,7 @@
     },
     {
       "id": 8,
-      "categoryId": 2,
+      "categoryId": 1,
       "productName": "Sütaş Ayran: 3 Adet Renault Megane Sedan Touch",
       "quantityPerUnit": "12 - 12 oz jars",
       "unitPrice": 40,
@@ -58,7 +58,7 @@
     },
     {
       "id": 9,
-      "categoryId": 6,
+      "categoryId": 3,
       "productName": "Turkcell: 10 kişiye iPhone Xs 64 GB",
       "quantityPerUnit": "18 - 500 g pkgs.",
       "unitPrice": 97,
@@ -66,7 +66,7 @@
     },
     {
       "id": 10,
-      "categoryId": 8,
+      "categoryId": 4,
       "productName": "VODAFONE ALTIN KULÜP YENİ YIL ÇEKİLİŞİ",
       "quantityPerUnit": "12 - 200 ml jars",
       "unitPrice": 31,
@@ -74,7 +74,7 @@
     },
     {
       "id": 12,
-      "categoryId": 4,
+      "categoryId": 13,
       "productName": "Espark 2019 Mercedes Çekilişi",
       "quantityPerUnit": "1 kg pkg.",
       "unitPrice": 21,
@@ -82,7 +82,7 @@
     },
     {
       "id": 12,
-      "categoryId": 4,
+      "categoryId": 6,
       "productName": "Algida: 6 kişiye, Volvo S60 T3 Advance 2018 model otomobil",
       "quantityPerUnit": "10 - 500 g pkgs.",
       "unitPrice": 38,
@@ -98,7 +98,7 @@
     },
     {
       "id": 14,
-      "categoryId": 7,
+      "categoryId": 14,
       "productName": "Cimri.com: Iphone X çekilişi",
       "quantityPerUnit": "40 - 100 g pkgs.",
       "unitPrice": 23.25,
@@ -106,7 +106,7 @@
     },
     {
       "id": 15,
-      "categoryId": 2,
+      "categoryId": 8,
       "productName": "Magnum: 2 kişiye Porche",
       "quantityPerUnit": "24 - 250 ml bottles",
       "unitPrice": 15.5,
@@ -114,7 +114,7 @@
     },
     {
       "id": 16,
-      "categoryId": 3,
+      "categoryId": 9,
       "productName": "Chips Master: 30 kişi Vestel Led TV",
       "quantityPerUnit": "32 - 500 g boxes",
       "unitPrice": 17.45,
@@ -164,13 +164,28 @@
     },
 	  {
       "id": 9,
-      "categoryName": "ForumAydinAVM",
+      "categoryName": "Vestel",
       "seoUrl": "seafood"
     },
 	  {
       "id": 10,
       "categoryName": "Migros",
       "seoUrl": "seafood"
-    }
+    },
+		  {
+      "id": 11,
+      "categoryName": "Nescafe",
+      "seoUrl": "seafood"
+    },
+		  {
+      "id": 13,
+      "categoryName": "Espark",
+      "seoUrl": "seafood"
+    },
+		  {
+      "id": 14,
+      "categoryName": "Cimri",
+      "seoUrl": "seafood"
+    },
   ]
 }
